@@ -1,0 +1,17 @@
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\bin\Debug\net6.0-windows\AgendaDeContactosDesarrollo.exe
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\bin\Debug\net6.0-windows\AgendaDeContactosDesarrollo.deps.json
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\bin\Debug\net6.0-windows\AgendaDeContactosDesarrollo.runtimeconfig.json
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\bin\Debug\net6.0-windows\AgendaDeContactosDesarrollo.dll
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\bin\Debug\net6.0-windows\ref\AgendaDeContactosDesarrollo.dll
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\bin\Debug\net6.0-windows\AgendaDeContactosDesarrollo.pdb
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.csproj.AssemblyReference.cache
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.Form1.resources
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.AssemblyInfo.cs
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.dll
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\ref\AgendaDeContactosDesarrollo.dll
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.pdb
+C:\Users\Angel\source\repos\AgendaDeContactosDesarrollo\obj\Debug\net6.0-windows\AgendaDeContactosDesarrollo.genruntimeconfig.cache
